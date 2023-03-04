@@ -1,0 +1,12 @@
+.navbar-brand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#carouselExampleFade{
+    max-width: 860px;
+    margin: auto;
+}
+.alert{
+    text-align: center;
+}
