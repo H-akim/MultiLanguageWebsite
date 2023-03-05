@@ -1,4 +1,4 @@
-# Multi Language Websit
+# Multi Language Website
 
 
 https://h-akim.github.io/MultiLanguageWebsite/
